@@ -6,15 +6,15 @@ Shopyy is a full‑stack e‑commerce web application that lets users browse pro
 
 ## 📌 Features
 
-✨ A fully responsive e‑commerce UI
-🛒 Browse products by category
-🛍️ Add to cart & manage cart items
-🔎 Search & filter products
-🧑‍💻 User authentication (Login / Register)
-📦 Checkout process
-📊 Admin capabilities (if implemented)
-⚡ Fast frontend built with React + Vite + TypeScript
-💅 Stylish UI using Tailwind CSS
+- ✨ A fully responsive e‑commerce UI
+- 🛒 Browse products by category
+- 🛍️ Add to cart & manage cart items
+- 🔎 Search & filter products
+- 🧑‍💻 User authentication (Login / Register)
+- 📦 Checkout process
+- 📊 Admin capabilities (if implemented)
+- ⚡ Fast frontend built with React + Vite + TypeScript
+- 💅 Stylish UI using Tailwind CSS
 
 ---
 
