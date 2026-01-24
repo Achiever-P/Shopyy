@@ -2,6 +2,8 @@
 
 Shopyy is a full‑stack e‑commerce web application that lets users browse products, add items to a cart, and complete orders, built with modern web technologies for a fast and responsive shopping experience.
 
+<img width="1856" height="902" alt="Screenshot 2026-01-24 214553" src="https://github.com/user-attachments/assets/5a32aa72-be57-4a89-b442-7f3b00ff3e56" />
+
 ---
 
 ## 📌 Features
